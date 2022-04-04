@@ -30,7 +30,7 @@ async function getDataSet(category) {
 
   return dataSet.data.result;
 }
-// 3. 여러개 마커 찍기
+// 3. 여러개 마커 찍기ddd
 
 var geocoder = new kakao.maps.services.Geocoder();
 
